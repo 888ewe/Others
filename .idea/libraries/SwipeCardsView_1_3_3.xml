@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="SwipeCardsView-1.3.3">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/tan/build/intermediates/exploded-aar/com.huxq17.android/SwipeCardsView/1.3.3/res" />
+      <root url="jar://$PROJECT_DIR$/tan/build/intermediates/exploded-aar/com.huxq17.android/SwipeCardsView/1.3.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huxq17.android/SwipeCardsView/1.3.3/8799639a99d9cfc503df7d817cd92e87d2bb0359/SwipeCardsView-1.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

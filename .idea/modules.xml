@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/08.侧滑菜单/08.侧滑菜单.iml" filepath="$PROJECT_DIR$/08.侧滑菜单/08.侧滑菜单.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MarqueeView/MarqueeView.iml" filepath="$PROJECT_DIR$/MarqueeView/MarqueeView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My.iml" filepath="$PROJECT_DIR$/My.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TabLayout/TabLayout.iml" filepath="$PROJECT_DIR$/TabLayout/TabLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2/app2.iml" filepath="$PROJECT_DIR$/app2/app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lala/lala.iml" filepath="$PROJECT_DIR$/lala/lala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l侧滑2/l侧滑2.iml" filepath="$PROJECT_DIR$/l侧滑2/l侧滑2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttp/okhttp.iml" filepath="$PROJECT_DIR$/okhttp/okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipelistview/swipelistview.iml" filepath="$PROJECT_DIR$/swipelistview/swipelistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tan/tan.iml" filepath="$PROJECT_DIR$/tan/tan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timeWheel/timeWheel.iml" filepath="$PROJECT_DIR$/timeWheel/timeWheel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/垂直跑马灯/垂直跑马灯.iml" filepath="$PROJECT_DIR$/垂直跑马灯/垂直跑马灯.iml" />
+      <module fileurl="file://$PROJECT_DIR$/画廊/画廊.iml" filepath="$PROJECT_DIR$/画廊/画廊.iml" />
+    </modules>
+  </component>
+</project>
